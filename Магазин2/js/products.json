@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "title": "Кровельные саморезы",
+        "text": 10,
+        "price": 150,
+        "imgSrc": "Krovelnye-samorezy.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Саморезы для сэндвич-панелей",
+        "text": 15,
+        "price": 300,
+        "imgSrc": "Sjendvich-panelej.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Саморезы для оконного профиля",
+        "text": 40,
+        "price": 300,
+        "imgSrc": "samorez-okonii.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Саморезы по бетону",
+        "text": 40,
+        "price": 400,
+        "imgSrc": "Samorezy-po-betonu.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Саморез конструкционный",
+        "text": 10,
+        "price": 300,
+        "imgSrc": "Samorez-konstrukcionnyj.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Мебельные саморезы",
+        "text": 100,
+        "price": 300,
+        "imgSrc": "Mebelnye.jpg"
+    }
+
+    
+]
